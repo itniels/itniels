@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a passionate .NET and DevOps engineer from Denmark. I am 39 years old and have been coding since 2012. I did my degree in computer science where I graduated in 2017 and been professionally employed ever since.
 
 <!--
 **itniels/itniels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
