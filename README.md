@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I am a passionate .NET and DevOps engineer from Denmark. I have been coding since 2012. I did my degree in computer science where I graduated in 2017 and been professionally employed ever since.
+I am a passionate .NET and Lead SRE from Denmark. I have been coding since 2012. I did my degree in computer science where I graduated in 2017 and been professionally employed ever since both full-time and freelance.
 
 ### 🔗 More
 Checkout [my personal website](https://nielsschmidt.dev/) to learn more or [my tech blog](https://itniels.com/) where I post about learnings, projects and other crazy stuff I work on.
